@@ -1,6 +1,6 @@
 # flutter_web
 
-A new Flutter project. Creating by following this : https://docs.flutter.dev/get-started/codelab-web
+A new Flutter project. Created by following this : https://docs.flutter.dev/get-started/codelab-web
 
 ## Getting Started
 
